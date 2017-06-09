@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Oi amigos, estou aqui para aprender mais sobre Git.
